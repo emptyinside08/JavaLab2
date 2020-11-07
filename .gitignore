@@ -1,8 +1,7 @@
-# Ignore the node_modules directory
+# folders
 out/
-.idea/
-index.md/
+idea/
+git/
 
-# Ignore Logs
-logs
-*.logd
+# files
+index.md
