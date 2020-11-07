@@ -1,7 +1,8 @@
 # folders
 out/
-idea/
+.idea/
 git/
 
 # files
-.md
+.md/
+.iml/
